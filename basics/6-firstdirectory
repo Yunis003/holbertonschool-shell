@@ -1,4 +1,2 @@
 #!/bin/bash
-directory="/tmp/my_first_directory"
-
-mkdir ${directory}
+mkdir -p /tmp/my_first_directory
