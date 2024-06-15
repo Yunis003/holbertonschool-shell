@@ -1,2 +1,2 @@
 #!/bin/bash
-grep  /etc/passwd | sort -type u
+ls -l /etc/passwd | sort -type u
